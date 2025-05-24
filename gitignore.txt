@@ -1,0 +1,9 @@
+# Ignore data outputs or sensitive logs
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints
