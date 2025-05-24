@@ -69,8 +69,7 @@ More station info: [EEA AQ Viewer](https://discomap.eea.europa.eu/App/AQViewer/i
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/air-quality-hr-2023.git
-    cd air-quality-hr-2023
+    git clone https://github.com/MatkaMath/Air_Quality_HR_2023.git
     ```
 
 2. Run the notebook in `notebooks/` to reproduce the full analysis.
